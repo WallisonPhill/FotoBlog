@@ -4,8 +4,3 @@ Simulação de um catálogo de uma agência de viagens, é um desafio do curso d
 - Variáveis no CSS
 - Animações
 - Filtros CSS
-- Responsividade
-- Display Grid
-- Variáveis no CSS
-- Animações
-- Filtros CSS
