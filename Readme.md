@@ -1,4 +1,9 @@
-Desafio FotoBlog do curso da RocketSeat para desenvolver as habilidades:
+Desafio FotoBlog que simula um catálogo de uma agência de viagens, é um desafio do curso da RocketSeat para desenvolver as habilidades:
+- Responsividade
+- Display Grid
+- Variáveis no CSS
+- Animações
+- Filtros CSS
 - Responsividade
 - Display Grid
 - Variáveis no CSS
